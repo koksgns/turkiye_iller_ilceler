@@ -1,4 +1,4 @@
-# turkiye_iller_ilceler
+# Türkiye iller ve ilçeler
 
 Türkiyenin illeri, illerin ilçeleri.
 
